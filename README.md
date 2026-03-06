@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @096-scp
 - 👀 I’m interested in x86 assembly
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - N/A
 - 😄 Pronouns: He/Him
